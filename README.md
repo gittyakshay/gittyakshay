@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Akshay Kashyap!
 - 👀 I’m interested in Data Engineering and Data Science.
-- 🌱 I’m currently learning:
-          - Data Science: Applications and implementations in real-world scenarios
-          - Blockchain: Specifically crypto currencies, DApps and DeFi
+- 🌱 I’m currently learning: 1) Data Science: Applications and implementations in real-world scenarios 2) Blockchain: Specifically crypto currencies, DApps and DeFi
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me: Well let me think about that..
 
